@@ -11,7 +11,7 @@ Este jogo foi criado usando somente a linguagem de programação C e seu devido 
 
 **Repositório do código fonte:**
 
->https://github.com/jeancrrg?tab=repositories
+>https://github.com/jeancrrg/snake-game
 
 **Tecnologia Utilizada:**
 
